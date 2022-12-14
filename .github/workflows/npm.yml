@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: "cd /home/runner/tetrload/Ultraviolet-Node && npm run start"
+        run: "cd Ultraviolet-Node && npm run start"
